@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentTemplateApp", "DocumentTemplateApp\DocumentTemplateApp.csproj", "{C3773F19-74B9-463F-B66D-92A04E2EC1F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3773F19-74B9-463F-B66D-92A04E2EC1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3773F19-74B9-463F-B66D-92A04E2EC1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3773F19-74B9-463F-B66D-92A04E2EC1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3773F19-74B9-463F-B66D-92A04E2EC1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {393DD43D-B609-4C8E-9C80-34F4A7888619}
+	EndGlobalSection
+EndGlobal
